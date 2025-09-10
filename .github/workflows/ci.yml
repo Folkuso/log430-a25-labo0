@@ -22,6 +22,7 @@ jobs:
           pip install pytest
 
       - name: Exécution des tests
-        run:
-          python -m pytest
+        run: |
+          cd src
+          python3 -m pytest
 
