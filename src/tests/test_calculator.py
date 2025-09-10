@@ -20,7 +20,7 @@ def test_subtraction():
 
 def test_multiplication():
     my_calculator = Calculator()
-    assert my_calculator.multiplication(2,5) == 10
+    assert my_calculator.multiplication(3,5) == 15
 
 def test_division():
     my_calculator = Calculator()
