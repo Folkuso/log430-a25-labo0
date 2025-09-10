@@ -24,7 +24,7 @@ def test_multiplication():
 
 def test_division():
     my_calculator = Calculator()
-    assert my_calculator.division(6,2) == 3
+    assert my_calculator.division(6,3) == 2
 
 def test_division_par_zero():
     my_calculator = Calculator()
