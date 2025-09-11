@@ -1,0 +1,8 @@
+[
+    {
+        "id": "calculator-cd",
+        "execute-command": "./cd.sh",
+        "command-working-directory": "/home/log430/log430-a25-labo0",
+        "http-methods": ["POST"]
+    }
+]
